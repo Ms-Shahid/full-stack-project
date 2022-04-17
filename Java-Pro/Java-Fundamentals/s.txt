@@ -1,0 +1,30 @@
+MS#Shahid@24*ko
+
+[14:54] P, PRUDHVIRAJ
+Exception Handling
+
+[14:55] P, PRUDHVIRAJ
+Collection Framework
+
+[14:55] P, PRUDHVIRAJ
+Generics
+
+[14:55] P, PRUDHVIRAJ
+Spring Data JPA
+
+[14:55] P, PRUDHVIRAJ
+Java-8 Stream API
+
+MNW7mw*722
+
+1)passing props to functional components  and accessing them in functional components
+2)passing props to class components  and accessing them in class components
+3)working with state in class components
+4)updating state using setState()
+5)destructuring props and state
+6)Conditional Rendering
+  a)if/else
+  b)Element Variables
+  c)Ternary Conditional Operator
+  d)Short Circuit Operator
+7)List Rendering
